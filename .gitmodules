@@ -1,0 +1,3 @@
+[submodule "subproject/lockless_sleep_and_wake"]
+	path = subproject/lockless_sleep_and_wake
+	url = git@github.com:tesseract241/lockless_sleep_and_wake.git
